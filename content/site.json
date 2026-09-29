@@ -214,7 +214,7 @@
       },
       "description": {
         "zh": "提出邻域宽度变换，将一维相干曲线中的谱峰选择转化为结构稳定性分析问题，研究噪声和局部伪峰下的可靠识别。成果发表于SCI一区期刊《Mathematics》。",
-        "en": "Developed the Neighborhood Width Transform to formulate peak selection in one-dimensional coherence curves as a structural stability problem, studying robust identification under noise and spurious local peaks. Published SCI JCR Q1 journal "Mathematics"."
+        "en": "Developed the Neighborhood Width Transform to formulate peak selection in one-dimensional coherence curves as a structural stability problem, studying robust identification under noise and spurious local peaks. Published SCI JCR Q1 journal 《Mathematics》."
       },
       "tags": [
         "Applied mathematics",
@@ -243,6 +243,7 @@
         "Pattern recognition",
         "Signal processing"
       ],
+      "publicationUrl": "https://doi.org/10.1109/PRML71097.2026.11687294",
       "image": "assets/projects/neural.webp"
     },
     {
@@ -264,6 +265,7 @@
         "Embedded systems",
         "Signal processing"
       ],
+      "publicationUrl": "https://doi.org/10.1109/LES.2026.3730142",
       "image": "assets/projects/embedded.webp"
     },
     {
