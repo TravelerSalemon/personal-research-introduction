@@ -1,0 +1,882 @@
+{
+  "master": {
+    "label": {
+      "zh": "硕士阶段",
+      "en": "Master’s study"
+    },
+    "school": {
+      "zh": "清华大学 · 自动化系",
+      "en": "Tsinghua University · Department of Automation"
+    },
+    "terms": [
+      {
+        "period": {
+          "zh": "2024 年秋季学期",
+          "en": "Fall 2024"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "矩阵分析与应用",
+              "en": "Matrix Analysis and Applications"
+            },
+            "credits": 3.0
+          },
+          {
+            "name": {
+              "zh": "嵌入式实时系统与微控制器应用",
+              "en": "Embedded RTOS & Microcontroller"
+            },
+            "credits": 4.0
+          },
+          {
+            "name": {
+              "zh": "新时代中国特色社会主义理论与实践",
+              "en": "The theory and practice of socialism with Chinese characteristics for the new era"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "自然辩证法概论",
+              "en": "Introduction to Dialectics of Nature"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "硕士生英语",
+              "en": "Academic English for Master Students"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "多传感器融合理论及其应用",
+              "en": "Multi-Sensor Fusion Theory and Applications"
+            },
+            "credits": 2.0
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2025 年春季学期",
+          "en": "Spring 2025"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "英文科技论文写作与学术报告",
+              "en": "How to report research results in English and the related issues"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "自适应控制理论与方法",
+              "en": "Adaptive Control:Theory and Methods"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "系统辨识理论与实践",
+              "en": "Theory and Practice of System Identification"
+            },
+            "credits": 3.0
+          },
+          {
+            "name": {
+              "zh": "人工神经网络",
+              "en": "Artificial Neural Network"
+            },
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2025 年秋季学期",
+          "en": "Fall 2025"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "文献综述与选题报告",
+              "en": "Literature Review and Thesis Proposal"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "学术活动",
+              "en": "Academic Discussion"
+            },
+            "credits": 1.0
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "name": {
+          "zh": "人工神经网络",
+          "en": "Artificial Neural Network"
+        },
+        "score": "4.0/4.0"
+      },
+      {
+        "name": {
+          "zh": "多传感器融合理论及其应用",
+          "en": "Multi-Sensor Fusion Theory and Applications"
+        },
+        "score": "4.0/4.0"
+      },
+      {
+        "name": {
+          "zh": "系统辨识理论与实践",
+          "en": "Theory and Practice of System Identification"
+        },
+        "score": "4.0/4.0"
+      },
+      {
+        "name": {
+          "zh": "嵌入式实时系统与微控制器应用",
+          "en": "Embedded RTOS & Microcontroller"
+        },
+        "score": "3.6/4.0"
+      },
+      {
+        "name": {
+          "zh": "自适应控制理论与方法",
+          "en": "Adaptive Control: Theory and Methods"
+        },
+        "score": "3.6/4.0"
+      }
+    ]
+  },
+  "undergraduate": {
+    "label": {
+      "zh": "本科阶段",
+      "en": "Undergraduate study"
+    },
+    "school": {
+      "zh": "哈尔滨工业大学 · 航天学院",
+      "en": "Harbin Institute of Technology · School of Astronautics"
+    },
+    "terms": [
+      {
+        "period": {
+          "zh": "2020 年秋季学期",
+          "en": "Fall 2020"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "“习近平新时代中国特色社会主义思想概论”（1）",
+              "en": "Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era (1)"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "大学化学C",
+              "en": "General Chemistry(C)"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "大学计算机-计算思维导论C",
+              "en": "College Computer-Introduction to Computational Thinking C"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "代数与几何B",
+              "en": "Linear Algebra and Analytic Geometry B"
+            },
+            "credits": 4.0
+          },
+          {
+            "name": {
+              "zh": "军事技能",
+              "en": "Military Skills"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "军事理论",
+              "en": "Military Theory"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "思想道德修养与法律基础",
+              "en": "ideological and moral cultivation and legal basis"
+            },
+            "credits": 2.5
+          },
+          {
+            "name": {
+              "zh": "思想政治理论实践课",
+              "en": "Practicum on Ideological and Political Theories"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "体育",
+              "en": "Physical Education"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "微积分B(1)",
+              "en": "Calculus B(1)"
+            },
+            "credits": 5.5
+          },
+          {
+            "name": {
+              "zh": "英语新闻听力",
+              "en": "Listening to English News"
+            },
+            "credits": 1.5
+          },
+          {
+            "name": {
+              "zh": "哲学导论",
+              "en": "Introduction to Philosophy"
+            },
+            "credits": 1.5
+          },
+          {
+            "name": {
+              "zh": "智能装备类专业导论",
+              "en": "Professional Introduction to Specialty in Intelligent Equipment"
+            },
+            "credits": 1.0
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2021 年春季学期",
+          "en": "Spring 2021"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "C++语言程序设计",
+              "en": "C++ Programming"
+            },
+            "credits": 2.5
+          },
+          {
+            "name": {
+              "zh": "“习近平新时代中国特色社会主义思想概论”（2）",
+              "en": "Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era (2)"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "大学生心理健康",
+              "en": "Mental Health of College Students"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "大学物理B(1)",
+              "en": "College Physics B(1)"
+            },
+            "credits": 5.5
+          },
+          {
+            "name": {
+              "zh": "高级英语口语",
+              "en": "Advanced English Speaking"
+            },
+            "credits": 1.5
+          },
+          {
+            "name": {
+              "zh": "画法几何与工程制图基础",
+              "en": "Descriptive Geometry and Fundamentals of Engineering Drawing"
+            },
+            "credits": 4.0
+          },
+          {
+            "name": {
+              "zh": "解读大学“程序”",
+              "en": "University Strategy"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "科研入门",
+              "en": "Introduction to Scientific Research"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "人际交往与沟通",
+              "en": "Interpersonal Interaction and Communication"
+            },
+            "credits": 1.5
+          },
+          {
+            "name": {
+              "zh": "体育",
+              "en": "Physical Education"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "微积分B(2)",
+              "en": "Calculus B(2)"
+            },
+            "credits": 5.5
+          },
+          {
+            "name": {
+              "zh": "希腊神话欣赏",
+              "en": "Appreciation of Greek Mythology"
+            },
+            "credits": 1.5
+          },
+          {
+            "name": {
+              "zh": "形势与政策（1）",
+              "en": "Situation and Policy1"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "中国近现代史纲要",
+              "en": "Compendium of Chinese Modern and Contemporary History"
+            },
+            "credits": 2.5
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2021 年夏季学期",
+          "en": "Summer 2021"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "交叉学科数学建模导引与实践",
+              "en": "Introduction to Interdisciplinary Mathematical Modeling and Practice"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "精密仪器及智能化类专业创新实践导论",
+              "en": "Introduction to Innovation Practice in Precision Instruments and Intelligent Systems"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "经济学奥秘",
+              "en": "The Secret of Economy"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "生命科学基础与应用",
+              "en": "The foundation and application of life science"
+            },
+            "credits": 1.0
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2021 年秋季学期",
+          "en": "Fall 2021"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "C语言测控系统程序设计",
+              "en": "C Programming for Measurement and Control Systems"
+            },
+            "credits": 1.5
+          },
+          {
+            "name": {
+              "zh": "大学物理B(2)",
+              "en": "College Physics B(2)"
+            },
+            "credits": 4.0
+          },
+          {
+            "name": {
+              "zh": "大学物理实验A(1)",
+              "en": "College Physics Experiments A(1)"
+            },
+            "credits": 1.5
+          },
+          {
+            "name": {
+              "zh": "电路E(4)",
+              "en": "Electric Circuit E(4)"
+            },
+            "credits": 2.5
+          },
+          {
+            "name": {
+              "zh": "电路实验E(1)",
+              "en": "Circuit Experiment E(1)"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "电路实验E(4)",
+              "en": "Circuit Experiment E(4)"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "复变函数与积分变换",
+              "en": "Complex Function and Integral Transformation"
+            },
+            "credits": 3.0
+          },
+          {
+            "name": {
+              "zh": "概率论与数理统计C",
+              "en": "Probability theory and mathematical statistics C"
+            },
+            "credits": 3.0
+          },
+          {
+            "name": {
+              "zh": "毛泽东思想和中国特色社会主义理论体系概论",
+              "en": "Introduction to Mao Zedong Thought and the Theoretical System of Socialism with Chinese Characteristics"
+            },
+            "credits": 4.0
+          },
+          {
+            "name": {
+              "zh": "全国大学生电子设计竞赛指导",
+              "en": "Guidance Course for Undergraduate Electronic Design"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "体育",
+              "en": "Physical Education"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "英文科技写作中的沟通素养",
+              "en": "Effective Communication in English Science Writing"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "英语演讲",
+              "en": "English Public Speaking"
+            },
+            "credits": 1.5
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2022 年春季学期",
+          "en": "Spring 2022"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "策略思维——带你走进博弈的奇妙世界",
+              "en": "Strategic Thinking: An Introduction to Game Theory"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "大学物理实验A(2)",
+              "en": "College Physics Experiments A(2)"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "工程训练（金工实习）C",
+              "en": "Engineering Training (Metalworking Practice) C"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "理论力学C",
+              "en": "Theoretical Mechanics C"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "马克思主义基本原理",
+              "en": "Basic principles of Marxism"
+            },
+            "credits": 3.0
+          },
+          {
+            "name": {
+              "zh": "模拟电子技术基础B",
+              "en": "Fundamentals of Analog Electronics B"
+            },
+            "credits": 3.5
+          },
+          {
+            "name": {
+              "zh": "模拟电子技术实验",
+              "en": "Analog Electronics Experiments"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "日语二外（上）",
+              "en": "Japanese as Second Foreign Language (1)"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "体育",
+              "en": "Physical Education"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "文献检索",
+              "en": "Literature Retrieval"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "系统建模与仿真基础",
+              "en": "Introduction to System Modeling and Simulation"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "形势与政策（2）",
+              "en": "Situation and Policy2"
+            },
+            "credits": 1.0
+          },
+          {
+            "name": {
+              "zh": "雅思综合",
+              "en": "The Complete Guide to IELTS"
+            },
+            "credits": 1.5
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2022 年秋季学期",
+          "en": "Fall 2022"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "工程训练（电子工艺实习）",
+              "en": "Engineering Training: Electronic Process Practice"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "机械基础实验（机械原理）B",
+              "en": "Mechanical Fundamentals Laboratory (Machinery Theory) B"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "机械原理B",
+              "en": "Machinery Theory B"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "领导力与沟通",
+              "en": "Leadership and Communication"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "数字电子技术基础A",
+              "en": "Fundamentals of Digital Electronics A"
+            },
+            "credits": 3.5
+          },
+          {
+            "name": {
+              "zh": "数字电子技术实验",
+              "en": "Digital Electronics Experiments"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "自动控制理论（1）",
+              "en": "Theory of Automatic Control (1)"
+            },
+            "credits": 6.0
+          },
+          {
+            "name": {
+              "zh": "自动控制实践（1）",
+              "en": "Automatic Control Practice 1"
+            },
+            "credits": 5.0
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2023 年春季学期",
+          "en": "Spring 2023"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "DSP技术与工程应用",
+              "en": "DSP Technology and Engineering Applications"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "博弈论基础",
+              "en": "Essentials of Game Theory"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "嵌入式软硬件设计与实践",
+              "en": "Design and Practice of Embedded Software and Hardware Systems"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "世界科学技术史",
+              "en": "A History of Science and Technology in the World"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "数字信号处理",
+              "en": "Digital Signal Processing"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "形势与政策（3）",
+              "en": "Situation and Policy3"
+            },
+            "credits": 0.5
+          },
+          {
+            "name": {
+              "zh": "智能控制基础",
+              "en": "Introduction to Intelligent Control"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "自动控制理论(2)",
+              "en": "Theory of Automatic Control (2)"
+            },
+            "credits": 4.0
+          },
+          {
+            "name": {
+              "zh": "自动控制实践(2)",
+              "en": "Automatic Control Practice 2"
+            },
+            "credits": 5.0
+          },
+          {
+            "name": {
+              "zh": "最优控制基础",
+              "en": "Fundamentals of Optimal Control"
+            },
+            "credits": 2.0
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2023 年秋季学期",
+          "en": "Fall 2023"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "FPGA技术与工程应用",
+              "en": "Technology and Engineering Applications of FPGA"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "快速控制原型与硬件在环仿真技术",
+              "en": "Rapid Control Prototyping and Hardware in the Loop Simulation"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "模式识别基础",
+              "en": "Pattern Recognition Basis"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "汽车动力学与控制",
+              "en": "Vehicle Dynamics and Control"
+            },
+            "credits": 2.0
+          },
+          {
+            "name": {
+              "zh": "生产实习",
+              "en": "Production Practice"
+            },
+            "credits": 2.0
+          }
+        ]
+      },
+      {
+        "period": {
+          "zh": "2024 年春季学期",
+          "en": "Spring 2024"
+        },
+        "courses": [
+          {
+            "name": {
+              "zh": "毕业设计（论文）",
+              "en": "Graduation Design (Thesis)"
+            },
+            "credits": 14.0
+          },
+          {
+            "name": {
+              "zh": "体质健康测试",
+              "en": "Physique Health Test"
+            },
+            "credits": 4.0
+          },
+          {
+            "name": {
+              "zh": "文化素质教育系列讲座",
+              "en": "Lectures on Cultural Attainment"
+            },
+            "credits": 1.0
+          }
+        ]
+      }
+    ],
+    "highlights": [
+      {
+        "name": {
+          "zh": "博弈论基础",
+          "en": "Essentials of Game Theory"
+        },
+        "score": "100/100"
+      },
+      {
+        "name": {
+          "zh": "电路实验E(4)",
+          "en": "Circuit Experiment"
+        },
+        "score": "93/100"
+      },
+      {
+        "name": {
+          "zh": "微积分B(2)",
+          "en": "Calculus"
+        },
+        "score": "99/100"
+      },
+      {
+        "name": {
+          "zh": "模式识别基础",
+          "en": "Pattern Recognition Basis"
+        },
+        "score": "92/100"
+      },
+      {
+        "name": {
+          "zh": "代数与几何B",
+          "en": "Linear Algebra and Analytic Geometry"
+        },
+        "score": "95.5/100"
+      },
+      {
+        "name": {
+          "zh": "C++语言程序设计",
+          "en": "C++ Programming"
+        },
+        "score": "91.5/100"
+      },
+      {
+        "name": {
+          "zh": "汽车动力学与控制",
+          "en": "Vehicle Dynamics and Control"
+        },
+        "score": "92/100"
+      },
+      {
+        "name": {
+          "zh": "机械原理B",
+          "en": "Machinery Theory"
+        },
+        "score": "90/100"
+      }
+    ]
+  }
+}

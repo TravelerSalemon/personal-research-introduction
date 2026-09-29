@@ -1,0 +1,853 @@
+{
+  "profile": {
+    "nameZh": "李思成",
+    "nameEn": "Sicheng Li",
+    "email": "lisc24@mails.tsinghua.edu.cn",
+    "photo": "assets/profile.jpg",
+    "position": {
+      "zh": "清华大学自动化系 · 硕士研究生",
+      "en": "M.S. Candidate · Department of Automation, Tsinghua University"
+    },
+    "headline": {
+      "zh": "人工智能、信号处理与嵌入式系统",
+      "en": "AI, signal processing, and embedded systems."
+    },
+    "intro": {
+      "zh": "我在清华大学自动化系攻读硕士学位，关注人工智能、信号处理、应用数学与嵌入式系统的交叉问题。研究将结构化建模与数据驱动方法结合，并在工业感知、实时处理和复杂工程系统中验证。",
+      "en": "I am a master’s student in Automation at Tsinghua University. My interests span AI, signal processing, applied mathematics, and embedded systems. I combine structured modeling with data-driven methods and test them in industrial sensing, real-time processing, and complex engineering systems."
+    },
+    "photoCaption": {
+      "zh": "李思成",
+      "en": "Sicheng Li"
+    },
+    "orcid": "0009-0002-9210-8758"
+  },
+  "focus": [
+    {
+      "number": "01",
+      "title": {
+        "zh": "人工智能",
+        "en": "Artificial intelligence"
+      },
+      "description": {
+        "zh": "结合领域知识与机器学习，研究稳健识别、可解释推断和生成式分析。",
+        "en": "Combining domain knowledge and machine learning for robust recognition, interpretable inference, and generative analysis."
+      }
+    },
+    {
+      "number": "02",
+      "title": {
+        "zh": "信号处理",
+        "en": "Signal processing"
+      },
+      "description": {
+        "zh": "面向含噪、多峰和动态数据，设计自适应滤波、特征提取及质量评估方法。",
+        "en": "Designing adaptive filtering, feature extraction, and quality assessment for noisy, multimodal, and dynamic data."
+      }
+    },
+    {
+      "number": "03",
+      "title": {
+        "zh": "应用数学",
+        "en": "Applied mathematics"
+      },
+      "description": {
+        "zh": "利用优化、统计推断与结构稳定性分析，将工程问题转化为可验证的数学模型。",
+        "en": "Using optimization, statistical inference, and structural stability to turn engineering questions into testable models."
+      }
+    },
+    {
+      "number": "04",
+      "title": {
+        "zh": "嵌入式系统",
+        "en": "Embedded systems"
+      },
+      "description": {
+        "zh": "关注算法在实时计算、嵌入式系统和复杂工程中的实现与部署。",
+        "en": "Implementing and deploying algorithms under real-time, embedded systems, and complex engineering scenarios."
+      }
+    }
+  ],
+  "education": [
+    {
+      "period": "2024.09 — 2027.06",
+      "school": {
+        "zh": "清华大学",
+        "en": "Tsinghua University"
+      },
+      "degree": {
+        "zh": "自动化系 · 控制科学与工程硕士",
+        "en": "M.S. in Control Science and Engineering, Department of Automation"
+      },
+      "detail": {
+        "zh": "研究兴趣：人工智能、信号处理、应用数学与嵌入式系统。",
+        "en": "Interests: AI, signal processing, applied mathematics, and embedded systems."
+      }
+    },
+    {
+      "period": "2020.09 — 2024.06",
+      "school": {
+        "zh": "哈尔滨工业大学",
+        "en": "Harbin Institute of Technology"
+      },
+      "degree": {
+        "zh": "航天学院 · 自动化本科",
+        "en": "B.Eng. in Automation, School of Astronautics"
+      },
+      "detail": {
+        "zh": "本科毕业设计：基于集成学习的玻璃成分预测与分类。",
+        "en": "Undergraduate thesis: ensemble learning for glass composition prediction and classification."
+      }
+    }
+  ],
+  "publications": [
+    {
+      "year": "2026",
+      "type": {
+        "zh": "期刊论文 · 已发表",
+        "en": "Journal article · Published"
+      },
+      "title": "Neighborhood Width Transform: A Structural Stability Framework for Peak Selection in Noisy 1D Coherence Curves",
+      "authors": "Sicheng Li, Zhaohui Ye",
+      "venue": "Mathematics, 14(12), 2156, 2026",
+      "summary": {
+        "zh": "提出邻域宽度变换，将含噪一维相干曲线的谱峰选择建模为结构稳定性问题。",
+        "en": "Introduces the Neighborhood Width Transform to select peaks in noisy one-dimensional coherence curves through structural stability."
+      },
+      "url": "https://doi.org/10.3390/math14122156",
+      "linkLabel": {
+        "zh": "查看论文",
+        "en": "Read paper"
+      },
+      "citation": "S. Li and Z. Ye, “Neighborhood Width Transform: A Structural Stability Framework for Peak Selection in Noisy 1D Coherence Curves,” Mathematics, vol. 14, no. 12, art. no. 2156, 2026, doi: 10.3390/math14122156."
+    },
+    {
+      "year": "2026",
+      "type": {
+        "zh": "期刊论文 · 已发表",
+        "en": "Journal article · Published"
+      },
+      "title": "Online-Adaptive Filtering in STC Processing For Real-Time Logging While Drilling System",
+      "authors": "Sicheng Li, Zhaohui Ye",
+      "venue": "IEEE Embedded Systems Letters, doi: 10.1109/LES.2026.3730142",
+      "summary": {
+        "zh": "设计在线自适应滤波方法，并针对嵌入式系统的实时计算需求进行实现。阵列声波处理是方法的验证场景。",
+        "en": "Develops online-adaptive filtering for real-time embedded computation, evaluated in array acoustic processing."
+      },
+      "url": "https://doi.org/10.1109/LES.2026.3730142",
+      "linkLabel": {
+        "zh": "查看论文",
+        "en": "Read paper"
+      },
+      "citation": "S. Li and Z. Ye, “Online-Adaptive Filtering in STC Processing For Real-Time Logging While Drilling System,” in IEEE Embedded Systems Letters, doi: 10.1109/LES.2026.3730142."
+    },
+    {
+      "year": "2026",
+      "type": {
+        "zh": "会议论文 · 已出版",
+        "en": "Conference paper · Published"
+      },
+      "title": "Knowledge-Informed Neural Network for Peak Identification and Slowness Extraction in Array Acoustic Logging",
+      "authors": "Sicheng Li, Limeng Tian, Zhaohui Ye",
+      "venue": "2026 7th International Conference on Pattern Recognition and Machine Learning (PRML), Urumqi, China, pp. 140–145, 2026",
+      "summary": {
+        "zh": "将先验知识融入神经网络，用阵列声波数据验证含噪峰值识别与参数提取。",
+        "en": "Integrates prior knowledge into a neural network and evaluates noisy peak identification and parameter extraction on array acoustic data."
+      },
+      "url": "https://doi.org/10.1109/PRML71097.2026.11687294",
+      "linkLabel": {
+        "zh": "查看论文",
+        "en": "Read paper"
+      },
+      "citation": "S. Li, L. Tian and Z. Ye, “Knowledge-Informed Neural Network for Peak Identification and Slowness Extraction in Array Acoustic Logging,” 2026 7th International Conference on Pattern Recognition and Machine Learning (PRML), Urumqi, China, 2026, pp. 140–145, doi: 10.1109/PRML71097.2026.11687294."
+    }
+  ],
+  "patents": [
+    {
+      "title": {
+        "zh": "阵列声波的时差确定方法、装置、设备及存储介质",
+        "en": "Method, apparatus, device, and storage medium for determining time differences in array acoustic signals"
+      },
+      "number": "CN121069489B",
+      "people": {
+        "zh": "发明人：叶朝辉、李思成",
+        "en": "Inventors: Zhaohui Ye, Sicheng Li"
+      },
+      "status": {
+        "zh": "中国发明专利 · 2026 年 1 月授权",
+        "en": "Chinese invention patent · Granted January 2026"
+      },
+      "url": "https://patents.google.com/patent/CN121069489B/zh"
+    }
+  ],
+  "projects": [
+    {
+      "number": "01",
+      "period": {
+        "zh": "2026.07 · 中国空间技术研究院实习",
+        "en": "July 2026 · China Academy of Space Technology internship"
+      },
+      "title": {
+        "zh": "卫星故障根因分析研究",
+        "en": "Satellite fault root-cause analysis research"
+      },
+      "description": {
+        "zh": "围绕空间复杂约束下的故障解释，调研遥测异常、系统知识与故障先验的结合方式，设计结构化分析方案和专业版、用户版报告界面，并完成专题研究报告与汇报。",
+        "en": "Investigated fault explanations under complex space-system constraints, connecting telemetry anomalies with system knowledge and fault priors. Designed a structured analysis approach and expert/user-facing report concepts, and delivered a research report."
+      },
+      "tags": [
+        "Generative AI",
+        "Knowledge systems",
+        "Space systems"
+      ],
+      "image": "assets/projects/satellite.webp"
+    },
+    {
+      "number": "02",
+      "period": {
+        "zh": "研究实践 · 清华大学",
+        "en": "Research · Tsinghua University"
+      },
+      "title": {
+        "zh": "含噪曲线谱峰识别的结构稳定性方法",
+        "en": "Structural stability for peak selection in noisy curves"
+      },
+      "description": {
+        "zh": "提出邻域宽度变换，将一维相干曲线中的谱峰选择转化为结构稳定性分析问题，研究噪声和局部伪峰下的可靠识别。成果发表于 Mathematics（2026）。",
+        "en": "Developed the Neighborhood Width Transform to formulate peak selection in one-dimensional coherence curves as a structural stability problem, studying robust identification under noise and spurious local peaks. Published in Mathematics (2026)."
+      },
+      "tags": [
+        "Applied mathematics",
+        "Signal processing",
+        "Robust inference"
+      ],
+      "publicationUrl": "https://doi.org/10.3390/math14122156",
+      "image": "assets/projects/mathematics.webp"
+    },
+    {
+      "number": "03",
+      "period": {
+        "zh": "研究实践 · 清华大学",
+        "en": "Research · Tsinghua University"
+      },
+      "title": {
+        "zh": "知识引导的神经网络与模式识别",
+        "en": "Knowledge-informed neural networks and pattern recognition"
+      },
+      "description": {
+        "zh": "研究结合领域先验与轻量学习模型的谱峰识别方法，应对噪声干扰、局部伪峰及波型重叠；相关工作形成 PRML 2026 会议论文。",
+        "en": "Studied how domain priors and lightweight learning models can identify characteristic peaks under noise, spurious extrema, and overlapping modes. Related work formed a PRML 2026 conference paper."
+      },
+      "tags": [
+        "AI",
+        "Pattern recognition",
+        "Signal processing"
+      ],
+      "image": "assets/projects/neural.webp"
+    },
+    {
+      "number": "04",
+      "period": {
+        "zh": "硕士课题 · 清华大学 / 中海油服合作项目",
+        "en": "Master's  Dissertation · Tsinghua University / COSL collaboration"
+      },
+      "title": {
+        "zh": "实时信号处理与嵌入式算法",
+        "en": "Real-time signal processing and embedded algorithms"
+      },
+      "description": {
+        "zh": "在工业阵列传感场景中，使用 C++ 实现预处理、谱峰搜索、参数估计、连续性约束与质量控制，构建可集成的实时处理流程。STC 是该项目采用的领域方法之一。",
+        "en": "Built a C++ pipeline for industrial array sensing, combining preprocessing, peak search, parameter estimation, continuity constraints, and quality control. STC is one domain method used in this application."
+      },
+      "tags": [
+        "C++",
+        "Embedded systems",
+        "Signal processing"
+      ],
+      "image": "assets/projects/embedded.webp"
+    },
+    {
+      "number": "05",
+      "period": {
+        "zh": "研究实践 · 哈尔滨工业大学",
+        "en": "Research · Harbin Institute of Technology"
+      },
+      "title": {
+        "zh": "基于 Kinect 的智能移动机器人",
+        "en": "Kinect-based intelligent mobile robot"
+      },
+      "description": {
+        "zh": "将手势识别、指令解析与移动控制整合到机器人系统，完成视觉感知到动作执行的闭环。",
+        "en": "Integrated gesture recognition, command interpretation, and mobile control into a visual perception-to-action robotic system."
+      },
+      "tags": [
+        "Robotics",
+        "Computer vision",
+        "Control"
+      ],
+      "image": "assets/projects/robot.webp"
+    }
+  ],
+  "awards": [
+    {
+      "year": "2021.07",
+      "title": {
+        "zh": "第六届黑龙江省大学生光电设计竞赛 二等奖",
+        "en": "Second Prize, 6th Heilongjiang College Student Optoelectronic Design Competition"
+      },
+      "level": {
+        "zh": "省级",
+        "en": "Provincial"
+      },
+      "category": "innovation"
+    },
+    {
+      "year": "2022.04",
+      "title": {
+        "zh": "第七届全国大学生学术英语词汇竞赛（NAEV）本科组 三等奖",
+        "en": "Third Prize, 7th National Academic English Vocabulary Competition (undergraduate)"
+      },
+      "level": {
+        "zh": "国家级",
+        "en": "National"
+      },
+      "category": "english"
+    },
+    {
+      "year": "2022.06",
+      "title": {
+        "zh": "2022年全国大学生英语作文大赛 大学英语组 国家级三等奖",
+        "en": "National Third Prize, 2022 National College Student English Essay Competition"
+      },
+      "level": {
+        "zh": "国家级",
+        "en": "National"
+      },
+      "category": "english"
+    },
+    {
+      "year": "2022.07",
+      "title": {
+        "zh": "第七届黑龙江省大学生光电设计竞赛 一等奖",
+        "en": "First Prize, 7th Heilongjiang College Student Optoelectronic Design Competition"
+      },
+      "level": {
+        "zh": "省级",
+        "en": "Provincial"
+      },
+      "category": "innovation"
+    },
+    {
+      "year": "2022.08",
+      "title": {
+        "zh": "第十届全国大学生光电设计竞赛东北区赛暨第六届东北地区大学生光电设计竞赛 二等奖",
+        "en": "Second Prize, 10th National Optoelectronic Design Competition, Northeast Region"
+      },
+      "level": {
+        "zh": "区域级",
+        "en": "Regional"
+      },
+      "category": "innovation"
+    },
+    {
+      "year": "2022.09",
+      "title": {
+        "zh": "2022年东北三省数学建模联赛 二等奖",
+        "en": "Second Prize, 2022 Northeast China Mathematical Modeling League"
+      },
+      "level": {
+        "zh": "区域级",
+        "en": "Regional"
+      },
+      "category": "mathematics"
+    },
+    {
+      "year": "2022.10",
+      "title": {
+        "zh": "2022年全国大学生技术创新创业大赛 黑龙江省赛区（信息技术赛道）一等奖",
+        "en": "First Prize, 2022 National College Student Technology Innovation Competition, Heilongjiang Division"
+      },
+      "level": {
+        "zh": "省级",
+        "en": "Provincial"
+      },
+      "category": "innovation"
+    },
+    {
+      "year": "2022.11",
+      "title": {
+        "zh": "2022年“高教社杯”全国大学生数学建模竞赛 黑龙江赛区 一等奖",
+        "en": "First Prize, 2022 China Undergraduate Mathematical Contest in Modeling, Heilongjiang Division"
+      },
+      "level": {
+        "zh": "省级",
+        "en": "Provincial"
+      },
+      "category": "mathematics"
+    },
+    {
+      "year": "2022.11",
+      "title": {
+        "zh": "2022年“高教社杯”全国商务英语实践大赛（商务英语应用实践子赛项）一等奖",
+        "en": "First Prize, 2022 National Business English Practice Competition"
+      },
+      "level": {
+        "zh": "国家级",
+        "en": "National"
+      },
+      "category": "english"
+    },
+    {
+      "year": "2022.12",
+      "title": {
+        "zh": "2022年“中外传播杯”全国大学生英语写作大赛 二等奖",
+        "en": "Second Prize, 2022 National College Student English Writing Competition"
+      },
+      "level": {
+        "zh": "国家级",
+        "en": "National"
+      },
+      "category": "english"
+    },
+    {
+      "year": "2022.12",
+      "title": {
+        "zh": "2022年全国大学生英语翻译大赛 大学英语组 国家级三等奖",
+        "en": "National Third Prize, 2022 National College Student English Translation Competition"
+      },
+      "level": {
+        "zh": "国家级",
+        "en": "National"
+      },
+      "category": "english"
+    },
+    {
+      "year": "2023.04",
+      "title": {
+        "zh": "第八届全国大学生学术英语词汇竞赛（NAEV）本科组 三等奖",
+        "en": "Third Prize, 8th National Academic English Vocabulary Competition (undergraduate)"
+      },
+      "level": {
+        "zh": "国家级",
+        "en": "National"
+      },
+      "category": "english"
+    },
+    {
+      "year": "2023.06",
+      "title": {
+        "zh": "2023年全国大学生英语作文大赛 大学英语组 省级一等奖",
+        "en": "Provincial First Prize, 2023 National College Student English Essay Competition"
+      },
+      "level": {
+        "zh": "省级",
+        "en": "Provincial"
+      },
+      "category": "english"
+    },
+    {
+      "year": "2023.08",
+      "title": {
+        "zh": "2023年“中教杯”全国大学生英语翻译大赛 B组 一等奖",
+        "en": "First Prize, 2023 National College Student English Translation Competition (Group B)"
+      },
+      "level": {
+        "zh": "国家级",
+        "en": "National"
+      },
+      "category": "english"
+    },
+    {
+      "year": "2023.12",
+      "title": {
+        "zh": "第十五届全国大学生数学竞赛（非数学A类）一等奖",
+        "en": "First Prize, 15th National College Student Mathematics Competition (Non-Mathematics A)"
+      },
+      "level": {
+        "zh": "国家级",
+        "en": "National"
+      },
+      "category": "mathematics"
+    },
+    {
+      "year": "2024.05",
+      "title": {
+        "zh": "2024年第三届全国大学生技术创新创业大赛 省赛 一等奖",
+        "en": "First Prize, 2024 National College Student Technology Innovation Competition, Provincial Round"
+      },
+      "level": {
+        "zh": "省级",
+        "en": "Provincial"
+      },
+      "category": "innovation"
+    }
+  ],
+  "honors": [
+    {
+      "year": "2020.12",
+      "title": {
+        "zh": "哈尔滨工业大学基础学部“百日百星”勤勉励学奖提名",
+        "en": "Harbin Institute of Technology, Diligent Learning Award nomination"
+      },
+      "level": {
+        "zh": "院级",
+        "en": "School/Department"
+      }
+    },
+    {
+      "year": "2021.05",
+      "title": {
+        "zh": "哈尔滨工业大学基础学部学习之星",
+        "en": "Harbin Institute of Technology, Learning Star"
+      },
+      "level": {
+        "zh": "院级",
+        "en": "School/Department"
+      }
+    },
+    {
+      "year": "2021.05",
+      "title": {
+        "zh": "哈尔滨工业大学优秀团员",
+        "en": "Harbin Institute of Technology, Outstanding Youth League Member"
+      },
+      "level": {
+        "zh": "校级",
+        "en": "University"
+      }
+    },
+    {
+      "year": "2021.12",
+      "title": {
+        "zh": "哈尔滨工业大学航天学院“启航·百年”中级团校优秀学员",
+        "en": "Harbin Institute of Technology, Outstanding Trainee of the School of Astronautics Youth League Program"
+      },
+      "level": {
+        "zh": "院级",
+        "en": "School/Department"
+      }
+    },
+    {
+      "year": "2021.12",
+      "title": {
+        "zh": "哈尔滨工业大学优秀学生干部标兵",
+        "en": "Harbin Institute of Technology, Model Outstanding Student Leader"
+      },
+      "level": {
+        "zh": "校级",
+        "en": "University"
+      }
+    },
+    {
+      "year": "2022.05",
+      "title": {
+        "zh": "哈尔滨工业大学优秀团干部",
+        "en": "Harbin Institute of Technology, Outstanding Youth League Cadre"
+      },
+      "level": {
+        "zh": "校级",
+        "en": "University"
+      }
+    },
+    {
+      "year": "2022.05",
+      "title": {
+        "zh": "哈尔滨工业大学抗疫志愿服务奖",
+        "en": "Harbin Institute of Technology, Volunteer Service Award"
+      },
+      "level": {
+        "zh": "校级",
+        "en": "University"
+      }
+    },
+    {
+      "year": "2022.11",
+      "title": {
+        "zh": "哈尔滨工业大学优秀学生·实学实干奖",
+        "en": "Harbin Institute of Technology, Outstanding Student for Practical Achievement"
+      },
+      "level": {
+        "zh": "校级",
+        "en": "University"
+      }
+    },
+    {
+      "year": "2023.05",
+      "title": {
+        "zh": "哈尔滨工业大学优秀团员",
+        "en": "Harbin Institute of Technology, Outstanding Youth League Member"
+      },
+      "level": {
+        "zh": "校级",
+        "en": "University"
+      }
+    },
+    {
+      "year": "2023.11",
+      "title": {
+        "zh": "哈尔滨工业大学优秀学生干部标兵",
+        "en": "Harbin Institute of Technology, Model Outstanding Student Leader"
+      },
+      "level": {
+        "zh": "校级",
+        "en": "University"
+      }
+    },
+    {
+      "year": "2025.06",
+      "title": {
+        "zh": "清华大学自动化系研团之星",
+        "en": "Tsinghua University Department of Automation, Graduate Youth League Star"
+      },
+      "level": {
+        "zh": "院级",
+        "en": "School/Department"
+      }
+    },
+    {
+      "year": "2026.06",
+      "title": {
+        "zh": "清华大学自动化系研团之星",
+        "en": "Tsinghua University Department of Automation, Graduate Youth League Star"
+      },
+      "level": {
+        "zh": "院级",
+        "en": "School/Department"
+      }
+    },
+    {
+      "year": "2026.06",
+      "title": {
+        "zh": "清华大学自动化系优秀共产党员",
+        "en": "Tsinghua University Department of Automation, Outstanding Communist Party Member"
+      },
+      "level": {
+        "zh": "院级",
+        "en": "School/Department"
+      }
+    },
+    {
+      "year": "2026.07",
+      "title": {
+        "zh": "清华大学优秀学生干部",
+        "en": "Tsinghua University, Outstanding Student Leader"
+      },
+      "level": {
+        "zh": "校级",
+        "en": "University"
+      }
+    }
+  ],
+  "scholarships": [
+    {
+      "zh": "校级一等人民奖学金 × 2",
+      "en": "First-Class University Scholarship × 2"
+    },
+    {
+      "zh": "校级二等人民奖学金 × 2",
+      "en": "Second-Class University Scholarship × 2"
+    },
+    {
+      "zh": "校级单项人民奖学金 × 2",
+      "en": "Special Merit University Scholarship × 2"
+    },
+    {
+      "zh": "另获多项企业奖学金",
+      "en": "Additional corporate-sponsored scholarships"
+    }
+  ],
+  "service": [
+    {
+      "role": {
+        "zh": "20L0333班学习委员",
+        "en": "Class 20L0333 Academic Representative"
+      },
+      "period": {
+        "zh": "2020年9月—2021年7月",
+        "en": "2020.9 – 2021.7"
+      },
+      "school": {
+        "zh": "哈尔滨工业大学航天学院",
+        "en": "Harbin Institute of Technology"
+      }
+    },
+    {
+      "role": {
+        "zh": "2004001班团支部组织委员",
+        "en": "Class 2004001 Youth League Organization Officer"
+      },
+      "period": {
+        "zh": "2021年9月—2022年7月",
+        "en": "2021.9 – 2022.7"
+      },
+      "school": {
+        "zh": "哈尔滨工业大学航天学院",
+        "en": "Harbin Institute of Technology"
+      }
+    },
+    {
+      "role": {
+        "zh": "哈尔滨工业大学第二十二次学生代表大会学生代表",
+        "en": "Student Delegate, 22nd HIT Student Congress"
+      },
+      "period": {
+        "zh": "2021年10月—2021年11月",
+        "en": "2021.10 – 2021.11"
+      },
+      "school": {
+        "zh": "哈尔滨工业大学",
+        "en": "Harbin Institute of Technology"
+      }
+    },
+    {
+      "role": {
+        "zh": "航天学院学生会学业支持中心副部长",
+        "en": "Deputy Head, Academic Support Center, School of Astronautics Student Union"
+      },
+      "period": {
+        "zh": "2022年3月—2022年6月",
+        "en": "2022.3 – 2022.6"
+      },
+      "school": {
+        "zh": "哈尔滨工业大学航天学院学生会",
+        "en": "Harbin Institute of Technology"
+      }
+    },
+    {
+      "role": {
+        "zh": "航天学院学生会主席",
+        "en": "President, School of Astronautics Student Union"
+      },
+      "period": {
+        "zh": "2022年6月—2023年9月",
+        "en": "2022.6 – 2023.9"
+      },
+      "school": {
+        "zh": "哈尔滨工业大学航天学院学生会",
+        "en": "Harbin Institute of Technology"
+      }
+    },
+    {
+      "role": {
+        "zh": "2004101班团支部组织委员",
+        "en": "Class 2004101 Youth League Organization Officer"
+      },
+      "period": {
+        "zh": "2022年9月—2023年7月",
+        "en": "2022.9 – 2023.7"
+      },
+      "school": {
+        "zh": "哈尔滨工业大学航天学院",
+        "en": "Harbin Institute of Technology"
+      }
+    },
+    {
+      "role": {
+        "zh": "哈尔滨工业大学第二十三次学生代表大会学生代表",
+        "en": "Student Delegate, 23rd HIT Student Congress"
+      },
+      "period": {
+        "zh": "2022年10月—2022年11月",
+        "en": "2022.10 – 2022.11"
+      },
+      "school": {
+        "zh": "哈尔滨工业大学",
+        "en": "Harbin Institute of Technology"
+      }
+    },
+    {
+      "role": {
+        "zh": "哈尔滨工业大学学生代表大会常务委员会学生代表",
+        "en": "Student Representative, HIT Student Congress Standing Committee"
+      },
+      "period": {
+        "zh": "2022年10月—2023年10月",
+        "en": "2022.10 – 2023.10"
+      },
+      "school": {
+        "zh": "哈尔滨工业大学",
+        "en": "Harbin Institute of Technology"
+      }
+    },
+    {
+      "role": {
+        "zh": "自硕41党支部宣传委员",
+        "en": "Communications Officer, Graduate Party Branch 41"
+      },
+      "period": {
+        "zh": "2024年8月—2026年9月",
+        "en": "2024.8 – 2026.9"
+      },
+      "school": {
+        "zh": "清华大学自动化系",
+        "en": "Tsinghua University, Department of Automation"
+      }
+    },
+    {
+      "role": {
+        "zh": "研究生团总支志愿部部长",
+        "en": "Head of Volunteer Department, Graduate Youth League"
+      },
+      "period": {
+        "zh": "2024年9月—2025年9月",
+        "en": "2024.9 – 2025.9"
+      },
+      "school": {
+        "zh": "清华大学自动化系研究生团总支",
+        "en": "Tsinghua University, Department of Automation"
+      }
+    },
+    {
+      "role": {
+        "zh": "清华大学第三十二次研究生代表大会代表",
+        "en": "Graduate Student Delegate, 32nd Tsinghua University Graduate Student Congress"
+      },
+      "period": {
+        "zh": "2024年12月",
+        "en": "December 2024"
+      },
+      "school": {
+        "zh": "清华大学",
+        "en": "Tsinghua University"
+      }
+    },
+    {
+      "role": {
+        "zh": "研究生团总支副书记",
+        "en": "Deputy Secretary, Graduate Youth League"
+      },
+      "period": {
+        "zh": "2025年9月—2026年9月",
+        "en": "2025.9 – 2026.9"
+      },
+      "school": {
+        "zh": "清华大学自动化系研究生团总支",
+        "en": "Tsinghua University, Department of Automation"
+      }
+    }
+  ],
+  "training": [
+    {
+      "name": {
+        "zh": "2021年哈尔滨工业大学航天学院“启航·百年”中级团校",
+        "en": "2021 “Setting Sail · Centenary” Intermediate Youth League School, School of Astronautics, Harbin Institute of Technology"
+      },
+      "year": "2021",
+      "issuer": {
+        "zh": "共青团哈尔滨工业大学航天学院委员会",
+        "en": "Youth League Committee, School of Astronautics, Harbin Institute of Technology"
+      }
+    },
+    {
+      "name": {
+        "zh": "清华大学第十八届研究生新生骨干培训班暨第三十九期暑期团校（研究生班）",
+        "en": "18th Tsinghua Graduate Student Leadership Training Program and 39th Summer Youth League School (graduate cohort)"
+      },
+      "year": "2024.08",
+      "issuer": {
+        "zh": "共青团清华大学研究生委员会",
+        "en": "Tsinghua University Graduate Youth League Committee"
+      }
+    }
+  ]
+}
