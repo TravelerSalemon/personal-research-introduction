@@ -72,31 +72,31 @@
     {
       "period": "2024.09 — 2027.06",
       "school": {
-        "zh": "清华大学",
+        "zh": "清华大学   硕士",
         "en": "Tsinghua University"
       },
       "degree": {
-        "zh": "自动化系 · 控制科学与工程硕士",
+        "zh": "自动化系 · 控制科学与工程",
         "en": "M.S. in Control Science and Engineering, Department of Automation"
       },
       "detail": {
-        "zh": "研究兴趣：人工智能、信号处理、应用数学与嵌入式系统。",
-        "en": "Interests: AI, signal processing, applied mathematics, and embedded systems."
+        "zh": "研究兴趣：人工智能、信号处理、应用数学与嵌入式系统",
+        "en": "Interests: AI, signal processing, applied mathematics, and embedded systems"
       }
     },
     {
       "period": "2020.09 — 2024.06",
       "school": {
-        "zh": "哈尔滨工业大学",
+        "zh": "哈尔滨工业大学   本科",
         "en": "Harbin Institute of Technology"
       },
       "degree": {
-        "zh": "航天学院 · 自动化本科",
+        "zh": "航天学院 · 自动化",
         "en": "B.Eng. in Automation, School of Astronautics"
       },
       "detail": {
-        "zh": "本科毕业设计：基于集成学习的玻璃成分预测与分类。",
-        "en": "Undergraduate thesis: ensemble learning for glass composition prediction and classification."
+        "zh": "本科毕业设计：基于集成学习的玻璃成分预测与分类",
+        "en": "Undergraduate thesis: ensemble learning for glass composition prediction and classification"
       }
     }
   ],
@@ -213,8 +213,8 @@
         "en": "Structural stability for peak selection in noisy curves"
       },
       "description": {
-        "zh": "提出邻域宽度变换，将一维相干曲线中的谱峰选择转化为结构稳定性分析问题，研究噪声和局部伪峰下的可靠识别。成果发表于 Mathematics（2026）。",
-        "en": "Developed the Neighborhood Width Transform to formulate peak selection in one-dimensional coherence curves as a structural stability problem, studying robust identification under noise and spurious local peaks. Published in Mathematics (2026)."
+        "zh": "提出邻域宽度变换，将一维相干曲线中的谱峰选择转化为结构稳定性分析问题，研究噪声和局部伪峰下的可靠识别。成果发表于SCI一区期刊《Mathematics》。",
+        "en": "Developed the Neighborhood Width Transform to formulate peak selection in one-dimensional coherence curves as a structural stability problem, studying robust identification under noise and spurious local peaks. Published SCI JCR Q1 journal "Mathematics"."
       },
       "tags": [
         "Applied mathematics",
@@ -235,7 +235,7 @@
         "en": "Knowledge-informed neural networks and pattern recognition"
       },
       "description": {
-        "zh": "研究结合领域先验与轻量学习模型的谱峰识别方法，应对噪声干扰、局部伪峰及波型重叠；相关工作形成 PRML 2026 会议论文。",
+        "zh": "研究结合领域先验与轻量学习模型的谱峰识别方法，应对噪声干扰、局部伪峰及波型重叠，相关工作发表在 PRML 2026 会议上。",
         "en": "Studied how domain priors and lightweight learning models can identify characteristic peaks under noise, spurious extrema, and overlapping modes. Related work formed a PRML 2026 conference paper."
       },
       "tags": [
@@ -243,6 +243,7 @@
         "Pattern recognition",
         "Signal processing"
       ],
+      "publicationUrl": "https://doi.org/10.1109/PRML71097.2026.11687294",
       "image": "assets/projects/neural.webp"
     },
     {
@@ -256,14 +257,15 @@
         "en": "Real-time signal processing and embedded algorithms"
       },
       "description": {
-        "zh": "在工业阵列传感场景中，使用 C++ 实现预处理、谱峰搜索、参数估计、连续性约束与质量控制，构建可集成的实时处理流程。STC 是该项目采用的领域方法之一。",
-        "en": "Built a C++ pipeline for industrial array sensing, combining preprocessing, peak search, parameter estimation, continuity constraints, and quality control. STC is one domain method used in this application."
+        "zh": "在工业阵列传感场景中，使用 C++ 实现预处理、谱峰搜索、参数估计、连续性约束与质量控制，构建可集成的实时处理流程。",
+        "en": "Built a C++ pipeline for industrial array sensing, combining preprocessing, peak search, parameter estimation, continuity constraints, and quality control."
       },
       "tags": [
         "C++",
         "Embedded systems",
         "Signal processing"
       ],
+      "publicationUrl": "https://doi.org/10.1109/LES.2026.3730142",
       "image": "assets/projects/embedded.webp"
     },
     {
