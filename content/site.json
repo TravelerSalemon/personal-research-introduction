@@ -243,7 +243,7 @@
         "Pattern recognition",
         "Signal processing"
       ],
-      "publicationUrl": "https://doi.org/10.1109/PRML71097.2026.11687294",
+      //"publicationUrl": "https://doi.org/10.1109/PRML71097.2026.11687294",
       "image": "assets/projects/neural.webp"
     },
     {
@@ -265,7 +265,7 @@
         "Embedded systems",
         "Signal processing"
       ],
-      "publicationUrl": "https://doi.org/10.1109/LES.2026.3730142",
+      //"publicationUrl": "https://doi.org/10.1109/LES.2026.3730142",
       "image": "assets/projects/embedded.webp"
     },
     {
