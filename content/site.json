@@ -10,7 +10,7 @@
     },
     "headline": {
       "zh": "人工智能、信号处理与嵌入式系统",
-      "en": "AI, signal processing, and embedded systems."
+      "en": "AI, signal processing, and embedded systems"
     },
     "intro": {
       "zh": "我在清华大学自动化系攻读硕士学位，关注人工智能、信号处理、应用数学与嵌入式系统的交叉问题。研究将结构化建模与数据驱动方法结合，并在工业感知、实时处理和复杂工程系统中验证。",
@@ -243,7 +243,6 @@
         "Pattern recognition",
         "Signal processing"
       ],
-      //"publicationUrl": "https://doi.org/10.1109/PRML71097.2026.11687294",
       "image": "assets/projects/neural.webp"
     },
     {
@@ -265,7 +264,6 @@
         "Embedded systems",
         "Signal processing"
       ],
-      //"publicationUrl": "https://doi.org/10.1109/LES.2026.3730142",
       "image": "assets/projects/embedded.webp"
     },
     {
